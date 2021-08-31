@@ -24,6 +24,6 @@
 <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" width = "15%">
 </a>
   
-<a href = "https>//twitter.com/MRCATFAT">
+<a href = "https://twitter.com/MRCATFAT">
 <img src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FMRCATFAT" width = "15%">  
  </a>

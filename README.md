@@ -2,7 +2,7 @@
 
 <ul>
   <li> 13 anos</li>
-  <li> �estudante de programação</li>
+  <li>estudante de programação</li>
   <li>Aprendendo <b>Javascript</b> </li>
   <li>Eu gosto de programar e pretendo conseguir um emprego como <b>desenvolvedor front-end</b> </li>
 </ul>

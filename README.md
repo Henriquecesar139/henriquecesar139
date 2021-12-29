@@ -2,8 +2,8 @@
 
 <ul>
   <li> 14 anos</li>
-  <li>estudante de programação</li>
-  <li>Eu gosto de programar e pretendo conseguir um emprego como <b>desenvolvedor front-end</b> </li>
+  <li> Estudante de programação</li>
+  <li> Futuro desenvolvedor <b>Front-End</b></li>
 </ul>
 
 

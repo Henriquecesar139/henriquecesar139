@@ -1,9 +1,9 @@
 <h1>Olá! Meu nome é Henrique César</h1>
 
 <ul>
-  <li> 14 anos</li>
-  <li> Estudante de programação</li>
-  <li> Futuro desenvolvedor <b>Front-End</b></li>
+  <li>:balloon: 14 anos</li>
+  <li>:computer: Estudante de programação</li>
+  <li>:grinning: Futuro desenvolvedor <b>Front-End</b></li>
 </ul>
 
 
@@ -23,3 +23,7 @@
 <a href = "https://twitter.com/MRCATFAT">
 <img src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FMRCATFAT" width = "25%">  
  </a>
+ 
+<a href = "https://www.instagram.com/henriquecesar1395/">
+<img src="https://img.shields.io/badge/INSTAGRAM-ff69b4" width="30%">
+</a>

@@ -24,6 +24,6 @@
   <img src="twitter.png" width="15%">
 </a>
 
-<a href="""mailto:henriquecesar1395@gmail.com">
+<a href="mailto:henriquecesar1395@gmail.com">
   <img src="mail.png" width="15%">
 </a>

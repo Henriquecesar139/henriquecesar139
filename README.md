@@ -16,14 +16,14 @@
   
 <h2>Contato: </h2>
 
-<a href="">
-  <img src="insta.png" width="32%" align="left">
+<a href="https://www.instagram.com/henriquecesar1395/">
+  <img src="insta.png" width="15%">
 </a>
 
-<a href="">
-  <img src="twitter.png" width="32%" align="center">
+<a href="https://twitter.com/MRCATFAT">
+  <img src="twitter.png" width="15%">
 </a>
 
-<a href="">
-  <img src="mail.png" width="32%" align="right">
+<a href="""mailto:henriquecesar1395@gmail.com">
+  <img src="mail.png" width="15%">
 </a>

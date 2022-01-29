@@ -14,16 +14,16 @@
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecesar139&layout=compact&langs_count=7&theme=dark">
 </a>
   
-  <h2>Contato: </h2>
-  
-<a href = "mailto:henriquecesar1395@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" width = "25%">
+<h2>Contato: </h2>
+
+<a href="">
+  <img src="insta.png" width="32%" align="left">
 </a>
-  
-<a href = "https://twitter.com/MRCATFAT">
-<img src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FMRCATFAT" width = "25%">  
- </a>
- 
-<a href = "https://www.instagram.com/henriquecesar1395/">
-<img src="https://img.shields.io/badge/INSTAGRAM-ff69b4" width="30%">
+
+<a href="">
+  <img src="twitter.png" width="32%" align="center">
+</a>
+
+<a href="">
+  <img src="mail.png" width="32%" align="right">
 </a>

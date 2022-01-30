@@ -15,7 +15,7 @@
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecesar139&layout=compact&langs_count=7&theme=dark">
 </a>
   
-<h2>Contato: </h2>
+<h2>Contact: </h2>
 
 <a href="https://www.instagram.com/henriquecesar1395/">
   <img src="insta.png" width="15%">

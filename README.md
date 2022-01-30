@@ -1,9 +1,10 @@
-<h1>Olá! Meu nome é Henrique César</h1>
+<h1>Henrique César</h1>
 
 <ul>
-  <li>:balloon: 14 anos</li>
-  <li>:computer: Estudante de programação</li>
-  <li>:grinning: Futuro desenvolvedor <b>Front-End</b></li>
+  <li>:balloon: 14 years</li>
+  <li>:computer: programming student</li>
+  <li>:desktop_computer: <b>Front-End</b></li>
+  <li>:brazil: brazilian</li>
 </ul>
 
 

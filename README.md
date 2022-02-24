@@ -15,16 +15,33 @@
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecesar139&layout=compact&langs_count=7&theme=dark">
 </a>
   
+<h2>Languages:</h2>  
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="10%" align="left">  
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="10%" align="left">  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="10%" align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="10%" align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="10%" align="left">
+
+<br>
+<br>
+<br>
+<br>
+ 
 <h2>Contact: </h2>
 
 <a href="https://www.instagram.com/__henriquecs__">
-  <img src="insta.png" width="15%">
+  <img src="insta.png" width="12%">
 </a>
 
 <a href="https://twitter.com/MRCATFAT">
-  <img src="twitter.png" width="15%">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="12%">
 </a>
 
 <a href="mailto:henriquecesar1395@gmail.com">
-  <img src="mail.png" width="15%">
+  <img src="mail.png" width="12%">
 </a>

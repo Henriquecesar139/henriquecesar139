@@ -1,4 +1,4 @@
-<h1>Henrique César</h1>
+<img src="batname.png" width="100%">
 
 <ul>
   <li>:balloon: 14 years</li>
@@ -25,7 +25,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="10%" align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="10%" align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="12%" align="left">
 
 <br>
 <br>
@@ -38,9 +38,9 @@
 </a>
 
 <a href="https://www.instagram.com/__henriquecs__/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="24%" align="left">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="28%" align="left">
 </a>
 
 <a href="https://twitter.com/MRCATFAT">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="22%" align="center">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="23%" align="center">
 </a>

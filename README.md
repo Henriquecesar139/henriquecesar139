@@ -1,6 +1,13 @@
-<img src="batname.png" width="100%">
+<pre align="center">
+ _   _   _____   _   _   ____    ___    ___    _   _   _____ 
+| | | | | ____| | \ | | |  _ \  |_ _|  / _ \  | | | | | ____|
+| |_| | |  _|   |  \| | | |_) |  | |  | | | | | | | | |  _|  
+|  _  | | |___  | |\  | |  _ <   | |  | |_| | | |_| | | |___ 
+|_| |_| |_____| |_| \_| |_| \_\ |___|  \__\_\  \___/  |_____|
+                                                             
 
-<ul>
+</pre>
+<ul align="center">
   <li>:balloon: 14 years</li>
   <li>:computer: programming student</li>
   <li>:desktop_computer: <b>Front-End</b></li>
@@ -11,9 +18,11 @@
 <hr>
 
   <a href="https://github.com/henriquecesar139">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=henriquecesar139&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecesar139&layout=compact&langs_count=7&theme=dark">
+  <img height="180rem" align="left" src="https://github-readme-stats.vercel.app/api?username=henriquecesar139&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="180rem" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecesar139&layout=compact&langs_count=7&theme=dark">
 </a>
+  
+<br><br><br><br><br><br><br>  
   
 <h2>Languages:</h2>  
   

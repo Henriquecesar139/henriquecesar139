@@ -1,11 +1,7 @@
 <pre align="center">
- _   _   _____   _   _   ____    ___    ___    _   _   _____ 
-| | | | | ____| | \ | | |  _ \  |_ _|  / _ \  | | | | | ____|
-| |_| | |  _|   |  \| | | |_) |  | |  | | | | | | | | |  _|  
-|  _  | | |___  | |\  | |  _ <   | |  | |_| | | |_| | | |___ 
-|_| |_| |_____| |_| \_| |_| \_\ |___|  \__\_\  \___/  |_____|
-                                                             
-
+     __      _  ___  _       __
+|_| |_  |\| |_)  |  / \ | | |_ 
+| | |__ | | | \ _|_ \_X |_| |__
 </pre>
 <ul align="center">
   <li>:balloon: 14 years</li>
@@ -30,16 +26,17 @@
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="10%" align="left">  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="10%" align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="14%" align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="10%" align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="14%" align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="12%" align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16%" align="left">
 
 <br>
 <br>
 <br>
 <br>
+<br><br><br><br>
  
 <h2>Contact: </h2>
 <a href="mailto:henriquecesar1395@gmail.com">

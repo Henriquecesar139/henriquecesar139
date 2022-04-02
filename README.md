@@ -1,8 +1,4 @@
-<pre align="center">
-     __      _  ___  _       __
-|_| |_  |\| |_)  |  / \ | | |_ 
-| | |__ | | | \ _|_ \_X |_| |__
-</pre>
+<h1 align="center">H E N R I Q U E</h1>
 <ul align="center">
   <li>:balloon: 14 years</li>
   <li>:computer: programming student</li>
@@ -14,11 +10,10 @@
 <hr>
 
   <a href="https://github.com/henriquecesar139">
-  <img height="180rem" width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=henriquecesar139&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="180rem" width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecesar139&layout=compact&langs_count=7&theme=dark">
+  <img height="180rem" width="45%" src="https://github-readme-stats.vercel.app/api?username=henriquecesar139&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="180rem" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecesar139&layout=compact&langs_count=7&theme=dark">
 </a>
-<br><br><br><br><br><br><br><br><br><br><br><br>
-
+<br>
   
 <h2>Languages:</h2>  
   

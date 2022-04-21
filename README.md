@@ -10,28 +10,10 @@
 <hr>
 
   <a href="https://github.com/henriquecesar139">
-  <img height="180rem" width="45%" src="https://github-readme-stats.vercel.app/api?username=henriquecesar139&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="180rem" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecesar139&layout=compact&langs_count=7&theme=dark">
+  <img height="200em" width="48%" src="https://github-readme-stats.vercel.app/api?username=henriquecesar139&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="200em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecesar139&layout=compact&langs_count=7&theme=dark">
 </a>
-<br>
-  
-<h2>Languages:</h2>  
-  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="10%" align="left">  
-  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="10%" align="left">  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="14%" align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="14%" align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16%" align="left">
-
-<br>
-<br>
-<br>
-<br>
-<br><br><br><br>
  
 <h2>Contact: </h2>
 <a href="mailto:henriquecesar1395@gmail.com">
